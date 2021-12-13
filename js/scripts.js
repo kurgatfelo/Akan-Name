@@ -117,7 +117,7 @@ var validate = function () {
           case 6:
             name = "Ama";
         }
-        document.getElementById("Akran").innerHTML = "your name is " + name;
+        document.getElementById("fello").innerHTML = "your name is " + name;
       }
     };
 
