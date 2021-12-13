@@ -1,5 +1,5 @@
 # AKAN-NAMING
-file:///home/moringa/Pictures/Screenshot%20from%202021-12-13%2000-25-22.png
+![Website image(file:///home/moringa/Documents/Akan-name/images/naming.png)
 ## This is Online Naming
 ###Description
 This Online Namining Takes:
